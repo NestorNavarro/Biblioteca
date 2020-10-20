@@ -1,0 +1,33 @@
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.LoginControl1.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.btnPrestamo.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Perfil.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Agregar.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Consulta.resources
+C:\Users\sony_\Desktop\Nueva carpeta (2)\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\sony_\Desktop\Nueva carpeta (2)\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\sony_\Desktop\Nueva carpeta (2)\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Agregar.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cliente.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Consulta.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.LoginControl1.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MainForm.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Perfil.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.btnPrestamo.resources
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\rebel\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cliente.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Revista.resources
+C:\Users\rebel\Documents\4rtosemestre\Base de datos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
